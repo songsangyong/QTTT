@@ -16,8 +16,6 @@ class MainActivity : AppCompatActivity() {
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)
             insets
         }
-        println("1111")
-        println("1111")
-        println("2222")
+        println("000")
     }
 }
